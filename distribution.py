@@ -1,7 +1,7 @@
 """
 distribution.py
 Author: kyDoleuc04
-Credit: tutorials, 
+Credit: tutorials, andrew, matt, chris lee, google
 
 Assignment:
 
